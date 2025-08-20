@@ -1,0 +1,8 @@
+{
+  "name": "Asistente de Prensa BCRP",
+  "description": "Una aplicación para analizar textos y noticias, identificando menciones al Banco Central de Reserva del Perú (BCRP) y generando resúmenes estructurados según las directrices de prensa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
